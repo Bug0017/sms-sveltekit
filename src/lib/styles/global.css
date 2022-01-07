@@ -1,0 +1,8 @@
+:root{
+    --default-color:#0f62fe;
+    --default-padding: 2rem;
+}
+
+svg.pictogram{
+    fill: var(--default-color);
+}
